@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "janken-server", "janken-server\janken-server.csproj", "{4CC8C8F0-F46D-4B82-83EA-D6BE2F7CE7C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "janken-client", "janken-client\janken-client.csproj", "{09773F62-49AA-422E-A5C7-611A6CAE1CF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "janken-server-gui", "janken-server-gui\janken-server-gui.csproj", "{BC158A67-2AD2-4820-9949-DF0CB00BB8AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "janken-client-gui", "janken-client-gui\janken-client-gui.csproj", "{6E4FDA38-30F7-4B9D-A180-498C7136B662}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CC8C8F0-F46D-4B82-83EA-D6BE2F7CE7C3}.Debug|x86.ActiveCfg = Debug|x86
+		{4CC8C8F0-F46D-4B82-83EA-D6BE2F7CE7C3}.Debug|x86.Build.0 = Debug|x86
+		{4CC8C8F0-F46D-4B82-83EA-D6BE2F7CE7C3}.Release|x86.ActiveCfg = Release|x86
+		{4CC8C8F0-F46D-4B82-83EA-D6BE2F7CE7C3}.Release|x86.Build.0 = Release|x86
+		{09773F62-49AA-422E-A5C7-611A6CAE1CF2}.Debug|x86.ActiveCfg = Debug|x86
+		{09773F62-49AA-422E-A5C7-611A6CAE1CF2}.Debug|x86.Build.0 = Debug|x86
+		{09773F62-49AA-422E-A5C7-611A6CAE1CF2}.Release|x86.ActiveCfg = Release|x86
+		{09773F62-49AA-422E-A5C7-611A6CAE1CF2}.Release|x86.Build.0 = Release|x86
+		{BC158A67-2AD2-4820-9949-DF0CB00BB8AB}.Debug|x86.ActiveCfg = Debug|x86
+		{BC158A67-2AD2-4820-9949-DF0CB00BB8AB}.Debug|x86.Build.0 = Debug|x86
+		{BC158A67-2AD2-4820-9949-DF0CB00BB8AB}.Release|x86.ActiveCfg = Release|x86
+		{BC158A67-2AD2-4820-9949-DF0CB00BB8AB}.Release|x86.Build.0 = Release|x86
+		{6E4FDA38-30F7-4B9D-A180-498C7136B662}.Debug|x86.ActiveCfg = Debug|x86
+		{6E4FDA38-30F7-4B9D-A180-498C7136B662}.Debug|x86.Build.0 = Debug|x86
+		{6E4FDA38-30F7-4B9D-A180-498C7136B662}.Release|x86.ActiveCfg = Release|x86
+		{6E4FDA38-30F7-4B9D-A180-498C7136B662}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
